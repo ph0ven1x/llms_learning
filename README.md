@@ -9,7 +9,7 @@
 .
 ├── rag
 │   ├── chat_rag 基于langchain创建自己专属的对话大模型
-│   │   
+│   ├── pdf_loader 常用 pdf 加载器   
 │   │   
 │   │   
 │   │   
