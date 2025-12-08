@@ -21,3 +21,4 @@
 ## Completed
 
 - [基于langchain创建自己专属的对话大模型](./rag/chat_rag/chat_rag.ipynb)
+- [常用 pdf 加载器](./rag/pdf_loader/pdf_loader.ipynb)
