@@ -25,6 +25,7 @@
 ## 拉取Unstructured镜像
 
 [Unstructured官方安装文档](https://docs.unstructured.io/open-source/installation/docker-installation#docker-cli)
+
 进入wsl子系统：Ubuntu-24.04
 
 ```bash
@@ -112,6 +113,7 @@ vscode连接到wsl并打开
 ## 使用uv
 
 [uv官方文档](https://docs.astral.sh/uv/)
+
 使用VScode内置的终端，操作容器内部
 
 ### 安装uv
@@ -124,6 +126,7 @@ wget -qO- <https://astral.sh/uv/install.sh> | sh
 ### 配置uv PyPI 镜像
 
 [官方配置文档](https://docs.astral.sh/uv/concepts/configuration-files/)[清华源PyPI仓库](https://mirrors.tuna.tsinghua.edu.cn/help/pypi/)
+
 在 `~/.config/uv/uv.toml`(用户级) 或者 `/etc/uv/uv.toml`(系统级) 填写下面的内容:
 
 ```
